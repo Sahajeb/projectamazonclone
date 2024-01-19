@@ -4,7 +4,6 @@
     border: border-box;
 
 }
-
 .navbar{
     height: 60px;
     background-color: #0f1111;
@@ -153,5 +152,37 @@ font-weight: 700;
 .hero-msg a{
     color: #007185;
     text-decoration: none;
-    ;
+    }
+
+    /*shope  section*/
+
+.shop-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}    
+
+.box{
+    
+    height: 400px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+} 
+.box a{
+    text-decoration: none;
+    color: #007185;
 }
+.box-img{
+    height: 300px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+} 
+.box-content{
+    margin-left: 1rem;
+    margin-right: 1rem;
+   
+}  
