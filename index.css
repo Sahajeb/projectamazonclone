@@ -205,3 +205,17 @@ font-weight: 700;
    text-decoration: none;
 }
 
+.foot-panel2{
+    
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ ul a{
+    margin-top: 14px;
+    display: block;
+    color: white;
+    text-decoration: none;
+ }
