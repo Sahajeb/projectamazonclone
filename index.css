@@ -90,6 +90,11 @@
 span{
     font-size: 0.7rem;
 }
+span a{
+    font-size: 0.8rem;
+    color:white ;
+    text-decoration: none;
+}
 .nav-second{
 font-size: 0.85;
 font-weight: 700;

@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+
+}
+
+.logo{
+    text-align: center;
+    margin-top: 5px;
+}
+.signin{
+   width: 296px;
+   height: 240;
+   padding: 20px 26px;
+   display: flex;
+   justify-content: space-around;
+   flex-direction: column;
+   border: 1px solid #ddd;
+   border-radius: 4px;
+   margin: 20px auto 25px auto;
+} 
+
+.signin h1{
+    font-size: 28px;
+    font-weight: 400;
+    margin-bottom: 10px;
+} 
+.signin label{
+    font-size: 13px;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.signin input{
+    width: 272px;
+    padding: 3px 7px;
+    margin-top: 3px;
+    background-color: #fff;
+    border: 1px solid #a6a6a6;
+    border-radius: 6px;
+}
+
+.signin button{
+    width: 288px;
+    height: 31px;
+    margin-top: 15px;
+    background-color: #f0c14b;
+    border: 1px solid #a6a6a6;
+    border-top-color: #949494;
+    background-image: linear-gradient(#f7da90,#e2b33b);
+    border-radius: 8px;
+}
+
+.signin p,.signin p a {
+    font-size: 12px;
+    line-height: 1.5;
+    text-decoration: none;
+}
+.signin p a{
+    color: #0066c0;
+    font-size: 12px;
+}
+.signin span a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #0066c0;
+ }
+
+.signin .p3 {
+    font-size: 13px;
+    font-weight: 700;
+}
+.signin .p3 a{
+    font-size: 13px;
+    font-weight: 400;
+}
+.buy{
+    border-top: 1px solid #a6a6a6;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+ 
