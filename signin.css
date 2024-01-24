@@ -81,6 +81,52 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+/*new amazon*/
+.newaccount{
+    text-align: center;
+    position: relative;
+     margin-bottom: 14px;
+     border-bottom: 1px solid #a6a6a6;
+    
 
+}
+.s2{
+    line-height: 1;
+    font-size: 12px;
+    color: #767676;
+    font-weight: 400;
+    z-index: 2;
+    position: relative;
+    display: inline-block;
+    background-color: #fff;
+    padding: 0 8px 0 7px;
+}
+.b2{
+    width: 290px;
+    height: 30px;
+    background-color: transparent;
+    border-radius: 8px;
+    border-color: #adb1b8 #a2a6ac #8d9096;
+    border-width: 1px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    }
 
+.foot{
+    height: 80px;
+    text-align: center;
+}    
+.foot a{
+       margin-left: 10px;
+        justify-content: space-evenly;
+        color: #0066c0;
+        text-decoration: none;
+        font-size: 11px;
+        margin-top: 10px;
+}
+
+.foot p{
+    margin-top: 10px;
+    font-size: 11px;
+}
  
