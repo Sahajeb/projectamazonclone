@@ -42,7 +42,7 @@
     border-radius: 6px;
 }
 
-.signin button{
+#button{
     width: 288px;
     height: 31px;
     margin-top: 15px;
@@ -52,6 +52,7 @@
     background-image: linear-gradient(#f7da90,#e2b33b);
     border-radius: 8px;
 }
+ 
 
 .signin p,.signin p a {
     font-size: 12px;
@@ -129,4 +130,12 @@
     margin-top: 10px;
     font-size: 11px;
 }
- 
+/*password page ka hai*/
+ form>a{
+    text-decoration: none;
+    font-size: 13px;
+    margin-left: 115px;
+ }
+ #mein{
+    display: flex;
+ }
